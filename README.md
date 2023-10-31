@@ -1,7 +1,7 @@
 # Learn Big
 Studying code in class is one thing, but to truly learn it, you have to work on projects. The Code Collective is a place for people to develop stronger coding, explore opportunities, and have fun doing it.
 
-To that end, Learn Big is an overarching project that will start at the basics of Python and allow each member to slowly work their way up to a complex and practical application that comes with a host of bragging rights.
+To that end, Learn Big is an overarching project that will start at the basics of Python and allow each member to slowly work their way up to a complex and practical application that comes with a host of bragging rights - building your own AI.
 Specifically, each member will get some experience with GitHub by cloning this repository, making their own branch, and pushing it back here to origin. This way, you can also see what others are doing for inspiration.
 After that, this master branch will be periodically updated with empty scripts to outline the goal of the next step, which can be merged into your branch with a pull request.
 
