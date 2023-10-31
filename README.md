@@ -6,6 +6,8 @@ Specifically, each member will get some experience with GitHub by cloning this r
 After that, this master branch will be periodically updated with empty scripts to outline the goal of the next step, which can be merged into your branch with a pull request.
 
 ## What is the project?
+The end goal of the project is to create your own AI that analyzes Tweets/Xs to form predictions.
+
 The project will start simple, creating a simple text-based (command-line) interface to enter some data and see the program display it back to you. Some simple number processing will follow, with loops being introduced to make sure you input the right type of data (input validation).
 
 Once the basics of input processing are down, you will write a system to process strings of text as "tokens" to be used further down the line, importing modules to make it easier and more effective.
